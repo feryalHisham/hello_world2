@@ -4,6 +4,8 @@ public class IdentityMatrix extends Matrix {
 	public IdentityMatrix(int nn, int mm) {
 		super(nn, mm);
 		// TODO Auto-generated constructor stub
+		//editing by feryal
+		//super(nn,mnm);
 	}
 
 	public boolean SetNumbers(int[] arr)
