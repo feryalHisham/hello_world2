@@ -7,7 +7,7 @@ public class MyMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//System.out.println("Hello world!");
+		System.out.println("Hello world!");
 		Matrix x=new Matrix(2,2);
 		int[] arr={1,2,3,4};
 		System.out.println(x.SetNumbers(arr));
